@@ -18,6 +18,7 @@ BuildRequires: perl(IO::Scalar)
 BuildRequires: perl(LWP)
 BuildRequires: perl(Test::More)
 BuildRequires: perl(URI)
+BuildRequires: perl(Class::Data::Inheritable)
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
 
