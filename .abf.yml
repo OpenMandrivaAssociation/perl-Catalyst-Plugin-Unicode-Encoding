@@ -1,2 +1,4 @@
+removed_sources:
+  Catalyst-Plugin-Unicode-Encoding-1.1.tar.gz: 4974775a8538bcdb49e5a7d94f87bd8f162280e6
 sources:
-  "Catalyst-Plugin-Unicode-Encoding-1.1.tar.gz": 4974775a8538bcdb49e5a7d94f87bd8f162280e6
+  Catalyst-Plugin-Unicode-Encoding-1.8.tar.gz: e7ec3871b415532f7a6177510a31e4a0caf0ac7b
